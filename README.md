@@ -1,4 +1,4 @@
-<h1 style="text-align:center;margin:50px;">Train Seats Reservation API</h1> 
+<h1 style="text-align:center;margin:50px;">Train Seats Reservation App</h1> 
 <h2 style="text-align:center;margin:50px;">
       GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a>
 </h2>
