@@ -4,10 +4,11 @@ import React, { useState } from "react";
 export default function Booking_Form({ setPassenger, setBooked }) {
   const [name, setName] = useState("");
   const [seats, setSeats] = useState();
+  const [loading,setLoading]=useState(false)
 
   function bookSeats(e) {
     e.preventDefault();
-
+    setLoading(true)
     axios
       .patch("https://naughty-erin-tie.cyclic.app//seats/reserve", { seats })
       .then((res) => {
@@ -20,7 +21,9 @@ export default function Booking_Form({ setPassenger, setBooked }) {
         if (!+seats) alert("Please enter proper number of seats");
         else if (+seats > 7) alert("You can book upto 7 seats at once");
         else alert('Seat not available');
-      });
+      })
+      .finally(()=>setLoading(false));
+      
   }
 
   return (
@@ -82,7 +85,7 @@ export default function Booking_Form({ setPassenger, setBooked }) {
           borderRadius: "4px",
         }}
       >
-        BOOK
+        {loading?'loading...':'BOOK'}
       </button>
     </form>
   );
