@@ -1,6 +1,6 @@
 <h1 style="text-align:center;margin:50px;">Train Seats Reservation App</h1> 
-<p>Train Seats Reservation App is a platform where train'seat reservation are made</p>
-<p>It is an indivildual project developed in three days. The objective of the project was to implement the backend-learnings</p>
+<p>Train Seats Reservation App is a platform where train-seat reservation are made.</p>
+<p>It is an indivildual project developed in three days. The objective of the project was to implement the backend-learnings.</p>
 <h4>Note : Sometimes data is not visible in UI as well as in backend for few minutes due to free deployment of backend. </h4>
 <h2 style="text-align:center;margin:50px;">
       GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a> 
@@ -16,7 +16,7 @@
         <li>You have to provide the number of required seats in body of the request.</li>
         <li>An user can book upto 7 seats at a time. </li>
         <li>In the backend priority will be to book seats in single row.</li>
-        <li>If required seats are not available i single row, seats will be booked in nearby rows.</li>
+        <li>If required seats are not available in single row, seats will be booked in nearby rows.</li>
       </ol>
 </h3>
    <br/>
