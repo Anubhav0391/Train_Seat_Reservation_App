@@ -1,6 +1,6 @@
 <h1 style="text-align:center;margin:50px;">Train Seats Reservation App</h1> 
 <h2 style="text-align:center;margin:50px;">
-      GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a>
+      GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a> (Some time it does not show data for few minutes due to free deploy.)
 </h2>
 <h2 style="text-align:center;margin:50px;">
       PATCH : <a href="https://naughty-erin-tie.cyclic.app//seats/reserve"> /seats/reserve</a>
