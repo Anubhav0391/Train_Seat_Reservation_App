@@ -1,7 +1,7 @@
     <u>
       <h1 style="text-align:center;margin:50px;">Train Seats Reservation API</h1>
     </u>
-    <h2 style="text-align:center;margin:50px;">
+<!--     <h2 style="text-align:center;margin:50px;">
       GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a>
     </h2>
     <h2 style="text-align:center;margin:50px;">
@@ -16,7 +16,7 @@
         <li>In the backend priority will be to book seats in single row.</li>
         <li>If required seats are not available i single row, seats will be booked in nearby rows.</li>
       </ol>
-    </h3>
+    </h3> -->
 <!--     <br/>
    <h2 style="text-align:center;margin-left:-500px;" >Frontend Features :- </h2>
    <h3>1. Reservation Form</h3><br/>
