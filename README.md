@@ -5,7 +5,7 @@
 <h2 style="text-align:center;margin:50px;">
       PATCH : <a href="https://naughty-erin-tie.cyclic.app//seats/reserve"> /seats/reserve</a>
 </h2>
-<h2 style="text-align:center;margin-left:-500px;" >Backend Features :- </h2>
+<h2 style="text-align:center;margin-left:-500px;" >Backend Features :- <a href="https://naughty-erin-tie.cyclic.app/">🔗</a></h2>
 <h3 style="width:fit-content;margin:auto">
       <ol >
         <li>Seat data can be get at  [ /seats ].</li>
@@ -17,7 +17,7 @@
       </ol>
 </h3>
    <br/>
-   <h2 style="text-align:center;margin-left:-500px;" >Frontend Features :- </h2>
+   <h2 style="text-align:center;margin-left:-500px;" >Frontend Features :- <a href="https://naughty-erin-tie.cyclic.app/">🔗</a></h2>
    <h3>1. Reservation Form</h3><br/>
    <img src="https://www.linkpicture.com/q/reservation_form.png"><br/>
    <h3>2. Booked Seats</h3><br/>
