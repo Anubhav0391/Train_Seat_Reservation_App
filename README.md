@@ -18,9 +18,10 @@
    <br/>
    <h2 style="text-align:center;margin-left:-500px;" >Frontend Features :- </h2>
    <h3>1. Reservation Form</h3><br/>
-   <img src=""><br/>
+   <img src="https://www.linkpicture.com/q/reservation_form.png"><br/>
    <h3>2. Booked Seats</h3><br/>
-   <img src=""><br/>
-   <h3>3. Coach 01 <br/>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user) </h3><br/>
-   <img src="">
+   <img src="https://www.linkpicture.com/q/booked_seats.png"><br/>
+   <h3>3. Coach 01</h3>
+   <p>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user)</p> <br/>
+   <img src="https://www.linkpicture.com/q/coach.png">
 
