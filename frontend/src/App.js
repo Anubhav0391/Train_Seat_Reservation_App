@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     setLoading(true)
     axios
-      .get("http://localhost:8080/seats")
+      .get("https://naughty-erin-tie.cyclic.app//seats")
       .then((res) => setCoach(res.data))
       .catch((err) => console.log(err))
       .finally(()=>setLoading(false));

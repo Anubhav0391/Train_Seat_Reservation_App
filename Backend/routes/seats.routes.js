@@ -3,7 +3,7 @@ const SeatsModel = require("../models/seats.model");
 
 const seatsRouter = express.Router();
 
-//get all seats of the coach => /seat
+//get all seats of the coach => /seats
 
 seatsRouter.get("/", async (req, res) => {
   try {
