@@ -9,7 +9,7 @@ export default function Booking_Form({ setPassenger, setBooked }) {
     e.preventDefault();
 
     axios
-      .patch("http://localhost:8080/seats/reserve", { seats })
+      .patch("https://naughty-erin-tie.cyclic.app//seats/reserve", { seats })
       .then((res) => {
         console.log(res.data);
         setPassenger(name);
