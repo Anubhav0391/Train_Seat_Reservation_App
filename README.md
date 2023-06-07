@@ -1,5 +1,5 @@
 <h1 style="text-align:center;margin:50px;">Train Seats Reservation App</h1> 
-<h4>Note :Sometimes data is not rendered in UI as well as in backend for few minutes due to free deployment of backend. </h4>
+<h4>Note : Sometimes data is not visible in UI as well as in backend for few minutes due to free deployment of backend. </h4>
 <h2 style="text-align:center;margin:50px;">
       GET : <a href="https://naughty-erin-tie.cyclic.app//seats"> /seats</a> 
 </h2>
