@@ -7,7 +7,7 @@
     <h2 style="text-align:center;margin:50px;">
       PATCH : <a href="https://naughty-erin-tie.cyclic.app/seats/reserve" target=_blank> /seats/reserve</a>
     </h2>
-    <h2 style="text-align:center;margin-left:-500px;" >Instructions :- </h2>
+    <h2 style="text-align:center;margin-left:-500px;" >Features :- </h2>
     <h3 style="width:fit-content;margin:auto">
       <ol >
         <li>User can book the seats at  [ /seats/reserve ].</li>
