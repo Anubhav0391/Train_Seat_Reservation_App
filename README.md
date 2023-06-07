@@ -2,10 +2,10 @@
       <h1 style="text-align:center;margin:50px;">Train Seats Reservation API</h1>
     </u>
     <h2 style="text-align:center;margin:50px;">
-      GET : <a href="https://naughty-erin-tie.cyclic.app/seats" target="_blank"> /seats</a>
+      GET : <a href="https://naughty-erin-tie.cyclic.app/seats" target=_blank> /seats</a>
     </h2>
     <h2 style="text-align:center;margin:50px;">
-      PATCH : <a href="https://naughty-erin-tie.cyclic.app/seats/reserve" target="_blank"> /seats/reserve</a>
+      PATCH : <a href="https://naughty-erin-tie.cyclic.app/seats/reserve" target=_blank> /seats/reserve</a>
     </h2>
     <h2 style="text-align:center;margin-left:-500px;" >Instructions :- </h2>
     <h3 style="width:fit-content;margin:auto">
