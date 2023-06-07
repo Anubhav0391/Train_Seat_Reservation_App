@@ -8,7 +8,8 @@
 <h2 style="text-align:center;margin-left:-500px;" >Backend Features :- </h2>
 <h3 style="width:fit-content;margin:auto">
       <ol >
-        <li>User can book the seats at  [ /seats/reserve ].</li>
+        <li>Seat data can be get at  [ /seats ].</li>
+        <li>Seats can be booked at  [ /seats/reserve ].</li>
         <li>You have to provide the number of required seats in body of the request.</li>
         <li>An user can book upto 7 seats at a time. </li>
         <li>In the backend priority will be to book seats in single row.</li>
@@ -22,6 +23,6 @@
    <h3>2. Booked Seats</h3><br/>
    <img src="https://www.linkpicture.com/q/booked_seats.png"><br/>
    <h3>3. Coach 01</h3>
-   <p>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user)</p> <br/>
+   <h4>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user)</h4> <br/>
    <img src="https://www.linkpicture.com/q/coach.png">
 
