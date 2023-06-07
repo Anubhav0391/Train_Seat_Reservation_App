@@ -17,7 +17,7 @@
         <li>If required seats are not available i single row, seats will be booked in nearby rows.</li>
       </ol>
     </h3>
-    <br/>
+<!--     <br/>
    <h2 style="text-align:center;margin-left:-500px;" >Frontend Features :- </h2>
    <h3>1. Reservation Form</h3><br/>
    <img src=""><br/>
@@ -25,3 +25,4 @@
    <img src=""><br/>
    <h3>3. Coach 01 <br/>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user) </h3><br/>
    <img src="">
+ -->
