@@ -26,6 +26,6 @@
    <h3>2. Booked Seats</h3><br/>
    <img src="https://www.linkpicture.com/q/booked_seats.png"><br/>
    <h3>3. Coach 01</h3>
-   <h4>(green => available,  gray with seat number =>already reserved,  gray with capital letter of name => reserved by current user)</h4> <br/>
+   <h4>(green => available,     gray with seat number =>already reserved,      gray with capital letter of name => reserved by current user)</h4> <br/>
    <img src="https://www.linkpicture.com/q/coach.png">
 
